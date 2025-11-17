@@ -1,8 +1,14 @@
+
 # 👋 Hi, I'm Mostafa  
 ### A Passionate Web Developer from Egypt  
 
 ## 🚀 About Me  
 - 🔭 **Currently working on:** Housing Rental Platform (Laravel + MySQL + Bootstrap)  
+- 🌱 **Currently learning:**  
+  - Java (Beginner)  
+  - C (Beginner)  
+  - C++ (Beginner)  
+  - Data Structures 
 - 👨‍💻 **Technologies I work with:**  
   - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
   - **Backend:** PHP (Laravel)  
@@ -22,6 +28,9 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
@@ -36,9 +45,9 @@
 ## 📫 Contact Me  
 - 📧 **Email:** mustafa.sayed@btu.edu.eg
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mostafa-sayed-430598224 
-
 ---
 
 ## 🤝 Open for Collaboration  
 I’m open to collaborating on web development, Laravel projects, or front-end work.  
 Feel free to reach out! 🚀
+
