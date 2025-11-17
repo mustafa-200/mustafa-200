@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa  
+### A Passionate Web Developer from Egypt  
 
-<!--
-**mustafa-200/mustafa-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🔭 **Currently working on:** Housing Rental Platform (Laravel + MySQL + Bootstrap)  
+- 🌱 **Currently learning:** Java, Data Analysis, Cybersecurity basics  
+- 👨‍💻 **Technologies I work with:**  
+  - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+  - **Backend:** PHP (Laravel)  
+  - **Database:** MySQL  
+- 💬 **Ask me about:** Web development, HTML/CSS, PHP, Laravel basics  
+- 😄 **Fun fact:** I enjoy cooking and trying new recipes 👨‍🍳  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-200&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-200&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me  
+- 📧 **Email:** mustafa.sayed@btu.edu.eg
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mostafa-sayed-430598224 
+
+---
+
+## 🤝 Open for Collaboration  
+I’m open to collaborating on web development, Laravel projects, or front-end work.  
+Feel free to reach out! 🚀
