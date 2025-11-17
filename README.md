@@ -3,7 +3,6 @@
 
 ## 🚀 About Me  
 - 🔭 **Currently working on:** Housing Rental Platform (Laravel + MySQL + Bootstrap)  
-- 🌱 **Currently learning:** Java, Data Analysis, Cybersecurity basics  
 - 👨‍💻 **Technologies I work with:**  
   - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
   - **Backend:** PHP (Laravel)  
