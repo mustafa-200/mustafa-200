@@ -1,20 +1,20 @@
 
-# 👋 Hi, I'm Mostafa  
+#  Hi, I'm Mostafa  
 ### A Passionate Web Developer from Egypt  
 
-## 🚀 About Me  
-- 🔭 **Currently working on:** Housing Rental Platform (Laravel + MySQL + Bootstrap)  
-- 🌱 **Currently learning:**  
+##  About Me  
+-  **Currently working on:** Housing Rental Platform (Laravel + MySQL + Bootstrap)  
+-  **Currently learning:**  
   - Java (Beginner)  
   - C (Beginner)  
   - C++ (Beginner)  
   - Data Structures 
-- 👨‍💻 **Technologies I work with:**  
+-  **Technologies I work with:**  
   - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
   - **Backend:** PHP (Laravel)  
   - **Database:** MySQL  
-- 💬 **Ask me about:** Web development, HTML/CSS, PHP, Laravel basics  
-- 😄 **Fun fact:** I enjoy cooking and trying new recipes 👨‍🍳  
+-  **Ask me about:** Web development, HTML/CSS, PHP, Laravel basics  
+-  **Fun fact:** I enjoy cooking and trying new recipes 👨‍🍳  
 
 ---
 
